@@ -1,0 +1,19 @@
+{
+  "name": "talk-with-llm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderi521/talk-with-llm.git"
+  },
+  "author": "yangyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderi521/talk-with-llm/issues"
+  },
+  "homepage": "https://github.com/coderi521/talk-with-llm#readme"
+}
